@@ -1,6 +1,6 @@
 ﻿# Array Space Explorer (array_visualizer.py)
 
-A lightweight, single-file browser UI for exploring **N-dimensional arrays** as a 3D “array space”. It starts a tiny local HTTP server and serves an embedded HTML/JS app (no external assets).
+A lightweight, single-file browser UI for exploring **N-dimensional arrays** in a visual representation, make pipelines, and view the actual code you can use to replicate it (with NumPy). It starts a tiny local HTTP server and serves an embedded HTML/JS app (no external assets).
 
 ## Requirements
 
